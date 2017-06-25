@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "micro index.js"
+  },
+  "dependencies": {
+    "graphql-server-micro": "^0.9.0",
+    "graphql-tools": "^1.0.0",
+    "micro": "^7.3.3",
+    "wordexpress-schema": "^2.0.0"
+  }
+}
